@@ -113,7 +113,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-    alan_kay[:known_for] = "GUI"
+    :alan_kay[:known_for] = "GUI"
 
 end
 
